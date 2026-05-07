@@ -1,88 +1,52 @@
-# Learning AI to Bridge Healthcare's Gaps
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Charlene Ubaldo | Health Tech AI Implementation Liaison</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #1a1a1a; max-width: 900px; margin: 0 auto; padding: 40px; background-color: #f9f9f9; }
+        .container { background: #ffffff; padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        h1 { color: #0078d4; margin-bottom: 5px; }
+        h2 { color: #555; font-weight: 400; margin-top: 0; }
+        .contact-info { margin-bottom: 30px; padding: 15px; background: #f0f7ff; border-left: 5px solid #0078d4; border-radius: 4px; }
+        .badge { background: #0078d4; color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.85rem; font-weight: bold; margin-right: 10px; }
+        .progress-bar { background: #eee; border-radius: 10px; height: 20px; width: 100%; margin: 10px 0 20px 0; }
+        .progress-fill { background: #28a745; height: 100%; border-radius: 10px; width: 33%; } /* Updates as you finish courses */
+        .btn { display: inline-block; background: #0078d4; color: white; padding: 12px 25px; text-decoration: none; border-radius: 5px; font-weight: bold; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Charlene Ubaldo, RN, BSN</h1>
+        <h2>Health Tech AI Implementation Liaison</h2>
+        
+        <div class="contact-info">
+            <strong>Location:</strong> Irvine, CA | <strong>Phone:</strong> (714) 797-5317<br>
+            <strong>Email:</strong> 4charleneubaldo@gmail.com | <strong>Web:</strong> <a href="http://www.nursecharleyknows.com" target="_blank">nursecharleyknows.com</a>
+        </div>
 
-**Learning Azure AI through Microsoft Applied Skills to build what nursing actually needs.** 20+ years of struggling through tools designed without us. I'm here to bridge that gap—to give my fellow nurses back their time, their energy, their humanity. Practical solutions. Real change. From one nurse to another, you're welcome.
+        <h3>Executive Summary</h3>
+        <p>Registered Nurse with 20+ years of clinical experience leveraging a deep healthcare background to bridge the gap between bedside care and AI technology. Currently specializing in <strong>Azure AI implementation</strong> and <strong>Clinical Informatics</strong> to streamline workflows for Fortune 500 health organizations.</p>
 
----
+        <h3>7-Day AI Consultant Certification Sprint</h3>
+        <p>Current Progress: <strong>1 of 3 Certifications Complete</strong></p>
+        <div class="progress-bar"><div class="progress-fill"></div></div>
+        
+        <ul>
+            <li><span class="badge">COMPLETED</span> <strong>GitHub Portfolio Automation</strong> - Cloud Infrastructure Setup</li>
+            <li><span class="badge">IN PROGRESS</span> <strong>Microsoft Azure AI-900</strong> - AI Fundamentals Certification</li>
+            <li><span class="badge">UPCOMING</span> <strong>MS Applied Skills</strong> - AI Chat for Clinical Business</li>
+        </ul>
 
-## 📋 My Journey
+        <h3>Technical Skillset</h3>
+        <ul>
+            <li><strong>AI/Automation:</strong> Microsoft Power Automate, Copilot Studio, Azure AI Studio</li>
+            <li><strong>Clinical Tech:</strong> Health Tech Workflow Liaison, Data Annotation, Informatics</li>
+            <li><strong>Development:</strong> GitHub Repository Management, Markdown, Basic HTML Deployment</li>
+        </ul>
 
-For two decades, I've lived the struggle. Broken apps. Inefficient workflows. Tools built by people who've never stood at a bedside. Healthcare systems designed in theory, failing in practice.
-
-I decided to learn Azure AI automation through **Microsoft Applied Skills**—not to join the noise, but to build what actually works.
-
-This repository documents my hands-on learning through applied skills courses and the practical clinical solutions I'm creating along the way.
-
----
-
-## 🎯 What This Is
-
-A **clinical-AI bridge** for healthcare professionals. Documentation of real learning. Tools designed for nurses, by a nurse.
-
-### Mission
-- Build practical Azure AI automation solutions for healthcare workflows
-- Eliminate tools that hurt instead of heal
-- Help tech understand nursing's actual needs
-- Prevent clinician burnout through efficiency and automation
-- Bridge the gap between theory and real-time clinical reality
-
----
-
-## 🛠️ Tools & Projects
-
-### Currently Building:
-- **Neuro-Advantage Clinical Innovation Framework™** – AI automation framework for identifying underserved clinical pain points
-- **Universal AI Setup Guides** – Optimized Azure AI integration and personalization
-- **Clinical Workflow Automation Tools** – Real-time, implementable solutions for nursing gaps
-
----
-
-## 📚 Learning Path: Microsoft Applied Skills
-
-### Courses Completed:
-- [Add Microsoft Applied Skills courses here]
-- [Add certifications earned]
-
-### Current Focus:
-- AI automation for healthcare workflows
-- Practical implementation strategies
-- Real-world clinical problem-solving
-
----
-
-## 📖 View the Complete Blueprint
-[Read the Full Master Blueprint →](./BLUEPRINT.md)
-
----
-
-## 🤝 For Fellow Nurses
-
-This work is for you. If you're building practical healthcare automation solutions, document them here. Collaborate. Share.
-
----
-
-## 📱 Save This Blueprint
-
-### **Bookmark on Desktop:**
-- ⭐ Click the star at the top of this repo
-- 🔖 Click the bookmark button
-
-### **Bookmark on Your Phone:**
-1. Open your browser
-2. Go to: `https://github.com/YOUR-USERNAME/RN-to-AI-my-azure-ai-journey`
-   - *Replace YOUR-USERNAME with your actual GitHub username*
-3. Tap the three dots (⋮) menu
-4. Select "Add bookmark" or "Save to home screen"
-5. Now you can access your blueprint anywhere!
-
----
-
-## ✅ Master Blueprint Complete
-
-- ✅ Complete master blueprint saved forever
-- ✅ Bookmarked for easy access
-- ✅ Professional landing page
-- ✅ Ready to build on
-
----
-
-From one nurse to another, you're welcome.
+        <a href="https://www.linkedin.com/in/charlene-ubaldo-90943a6b" class="btn" target="_blank">Connect on LinkedIn</a>
+    </div>
+</body>
+</html>
